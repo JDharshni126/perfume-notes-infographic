@@ -45,4 +45,6 @@ Created an infographic that simplifies the concept of perfume note progression t
 
 ## Preview
 
-<img src="perfume-fragrance-pyramid.png" width="350"/>
+## Preview
+
+<img src="PERFUME FRAGRANCE PYRAMID.png" width="350"/>
